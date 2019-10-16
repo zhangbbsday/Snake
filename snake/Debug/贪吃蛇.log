@@ -1,0 +1,2 @@
+﻿LIBCMT.lib(exe_wwinmain.obj) : error LNK2019: 无法解析的外部符号 _wWinMain@16，该符号在函数 "int __cdecl __scrt_common_main_seh(void)" (?__scrt_common_main_seh@@YAHXZ) 中被引用
+D:\data\游戏创作\游戏部门\贪吃蛇\Debug\贪吃蛇.exe : fatal error LNK1120: 1 个无法解析的外部命令
